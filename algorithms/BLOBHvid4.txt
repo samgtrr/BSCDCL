@@ -1,0 +1,382 @@
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_auth_hybrid_force.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_auth_hybrid_immediate.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_auth_hybrid_nonforce.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_auth_immediate.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_auth_implicit_idtoken.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_auth_nonforce.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_auth_user_denied.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_initialize_failure.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_initialize_successful.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\googleapis_auth-0.2.7\test\oauth2_flows\implicit\gapi_load_failure.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\mustache-1.1.1\test\no_spec\whitespace.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\node_preamble-1.4.4\lib\preamble.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\node_preamble-1.4.4\lib\preamble.min.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\scoped_model-1.0.1\exampleAsyncAndTest\android\gradlew.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\scoped_model-1.0.1\example\android\gradlew.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\test-1.6.1\lib\dart.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\.pub-cache\hosted\pub.dartlang.org\test-1.6.1\lib\src\runner\browser\static\host.dart.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\engine\android-arm-dynamic-profile\windows-x64\gen_snapshot.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\engine\android-arm-dynamic-release\windows-x64\gen_snapshot.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\engine\android-arm-profile\windows-x64\gen_snapshot.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\engine\android-arm-release\windows-x64\gen_snapshot.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\engine\android-arm64-dynamic-profile\windows-x64\gen_snapshot.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\engine\android-arm64-dynamic-release\windows-x64\gen_snapshot.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\engine\android-arm64-profile\windows-x64\gen_snapshot.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\engine\android-arm64-release\windows-x64\gen_snapshot.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\engine\windows-x64\flutter_tester.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\artifacts\gradle_wrapper\gradlew.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\dart.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\dart2js.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\dartanalyzer.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\dartdevc.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\dartdoc.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\dartfmt.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\pub.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\snapshots\resources\dartdoc\resources\highlight.pack.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\snapshots\resources\dartdoc\resources\script.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\snapshots\resources\dartdoc\resources\typeahead.bundle.min.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\bin\snapshots\resources\dartdoc\resources\URI.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\amd\dart_sdk.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\amd\require.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\common\dart_sdk.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\common\run.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\es6\dart_sdk.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\kernel\amd\dart_sdk.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\kernel\amd\require.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\kernel\common\dart_sdk.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\kernel\common\run.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\kernel\es6\dart_sdk.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\kernel\legacy\dart_library.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\kernel\legacy\dart_sdk.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\legacy\dart_library.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\legacy\dart_sdk.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\web\dart_stack_trace_mapper.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\dev_compiler\web\ddc_web_compiler.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\_internal\js_runtime\lib\preambles\d8.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\_internal\js_runtime\lib\preambles\jsshell.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\cache\dart-sdk\lib\_internal\pub\asset\7zip\7za.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\flutter.bat
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\cmd\git.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\blocked-file-util.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-credential-store.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-credential-wincred.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-fast-import.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-http-fetch.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-http-push.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-receive-pack.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-remote-http.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-remote-https.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-sh-i18n--envsubst.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-show-index.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git-upload-pack.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\git.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libcurl-4.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libeay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libexpat-1.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libffi-6.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libgmp-10.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libiconv-2.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libidn2-0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libintl-8.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libmetalink-3.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libnghttp2-14.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libpcre-1.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libspdylay-7.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libssh2-1.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libssp-0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libtasn1-6.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libunistring-2.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\libwinpthread-1.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\proxy-lookup.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\ssleay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\x86_64-w64-mingw32-deflatehd.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\x86_64-w64-mingw32-inflatehd.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\bin\zlib1.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\libexec\git-core\Bitbucket.Authentication.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\libexec\git-core\git-askpass.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\libexec\git-core\git-credential-manager.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\libexec\git-core\GitHub.Authentication.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\libexec\git-core\Microsoft.Alm.Authentication.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\libexec\git-core\Microsoft.Alm.Git.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\libexec\git-core\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\libexec\git-core\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\libexec\git-core\Microsoft.Vsts.Authentication.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\4758ccaeay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\aepeay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\atallaeay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\capieay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\chileay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\cswifteay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\gmpeay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\gosteay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\nuroneay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\padlockeay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\surewareeay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\lib\engines\ubseceay32.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\share\git\git-wrapper.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\ssl\certs\ca-bundle.crt
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\mingw64\ssl\certs\ca-bundle.trust.crt
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\awk.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\b2sum.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\basename.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\cat.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\comm.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\cp.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\cut.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\dash.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\date.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\dirname.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\echo.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\env.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\expr.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\false.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\find.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\getfacl.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\getopt.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\grep.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\head.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\ls.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\mkdir.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\mktemp.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-2.0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-asn1-8.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-com_err-1.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-crypt-0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-crypto-1.0.0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-gcc_s-seh-1.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-gmp-10.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-gssapi-3.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-heimbase-1.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-heimntlm-0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-history7.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-hx509-5.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-iconv-2.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-intl-8.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-krb5-26.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-mpfr-4.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-ncursesw6.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-pcre-1.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-readline7.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-roken-18.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-sqlite3-0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-ssl-1.0.0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-ssp-0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-wind-0.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\msys-z.dll
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\mv.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\pathchk.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\printf.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\pwd.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\readlink.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\rebase.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\rm.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\rmdir.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\sed.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\sh.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\sort.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\ssh-add.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\ssh-agent.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\ssh.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\tail.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\test.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\touch.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\tr.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\true.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\uname.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\uniq.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\wc.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\bin\mingit\usr\bin\xargs.exe
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\dev\docs\assets\api_survey.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\dev\docs\assets\snippets.js
+    Access is denied.
+!   C:\Users\Asus\Downloads\flutter_windows_v1.5.4-hotfix.2-stable.zip: Cannot create flutter\flutter_console.bat
+    Access is denied.
